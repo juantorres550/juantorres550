@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @juantorres550
-- 👀 I’m interested in Angular FrontEnd Development and PHP | NodeJS backend Development
+- 👀 I’m interested in Angular and React FrontEnd Development
 - 🌱 I’m currently learning Cybersecurity
 - 📫 How to reach me torresjuan550@gmail.com
 
